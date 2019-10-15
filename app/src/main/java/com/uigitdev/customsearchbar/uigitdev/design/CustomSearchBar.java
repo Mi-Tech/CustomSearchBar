@@ -166,6 +166,7 @@ public class CustomSearchBar {
             search_recycler_view.setAdapter(searchAdapter);
         } else {
             searchAdapter.filterList(arrayList);
+            //todo filterList in Adapter
         }
     }
 
