@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#282828</color>
+    <color name="colorAccent">#0abf53</color>
+    <color name="colorBackground">#1F1F1F</color>
+    <color name="colorSearchBarBackground">#121212</color>
+    <color name="colorSearchBarText">#696969</color>
+    <color name="colorIconTint">#909090</color>
+    <color name="colorText">#dcdcdc</color>
+    <color name="colorDivider">#2B2B2B</color>
+    <color name="colorRipple">#2B2B2B</color>
+    <color name="colorTextHint">#909090</color>
+</resources>

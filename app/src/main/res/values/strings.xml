@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomSearchBar</string>
+    <string name="search_something">Search something...</string>
+</resources>
